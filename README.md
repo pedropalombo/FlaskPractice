@@ -4,13 +4,13 @@ Welcome to my Flask study repository! This repository contains code and resource
 
 ## Table of Contents 📚
 
-- [First Steps](#first-steps)
-  - [Routing](#routing)
-  - [Static Data](#static-data)
-  - [Request Data](#request-data)
-- [Templates](#templates)
-- [Errors](#errors)
-- [Databases](#databases)
+- [First Steps](./Basics/First%20Steps)
+  - [Routing](./Basics/First%20Steps/Routing)
+  - [Static Data](./Basics/First%20Steps/Static%20Content)
+  - [Request Data](./Basics/First%20Steps/Request%20Data)
+- [Templates](./Basics/Templates)
+- [Errors](./Basics/Errors)
+- [Databases](./Basics/Databases)
 
 ## First Steps 🚀
 
