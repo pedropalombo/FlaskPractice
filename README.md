@@ -6,7 +6,7 @@ Welcome to my Flask study repository! This repository contains code and resource
 
 - [First Steps](./Basics/First%20Steps)
   - [Routing](./Basics/First%20Steps/Routing)
-  - [Static Data](./Basics/First%20Steps/Static%20Content)
+  - [Static Content](./Basics/First%20Steps/Static%20Content)
   - [Request Data](./Basics/First%20Steps/Request%20Data)
 - [Templates](./Basics/Templates)
 - [Errors](./Basics/Errors)
@@ -20,7 +20,7 @@ Covering the fundamental concepts and practices of Flask development.
 
 Exploration on how to define routes and handle HTTP requests using Flask.
 
-### Static Data 🖼️
+### Static Content 🖼️
 
 Examples of serving static files such as CSS, JavaScript, and images in Flask applications.
 
