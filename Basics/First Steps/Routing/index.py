@@ -1,4 +1,4 @@
-#first step are to:
+#first steps are to:
 #-> install virtualenv for isolated projects
  # \-> pip install virtualenv
 #-> create enviroment
